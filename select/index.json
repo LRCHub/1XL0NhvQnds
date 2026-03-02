@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "START DASH SENSATION ～あかり Ver.～",
+  "base_artist": "るか",
+  "createdAt": "2026-03-02T10:03:34.530604Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "START DASH SENSATION ～あかりソロ Ver.～",
+      "artist": "るか from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/01_START_DASH_SENSATION_~あかりソロ_Ver.~_るか_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "START DASH SENSATION",
+      "artist": "るか・もな・みき from AIKATSU☆STARS!",
+      "has_synced": true,
+      "path": "select/02_START_DASH_SENSATION_るか・もな・みき_from_AIKATSU☆STARS!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "START DASH SENSATION (TV-size)",
+      "artist": "るか・もな・みき from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/03_START_DASH_SENSATION_(TV-size)_るか・もな・みき_from_AIKATSU☆STARS!.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "START DASH SENSATION ～あかり ver.～",
+      "artist": "るか from AIKATSU☆STARS!",
+      "has_synced": false,
+      "path": "select/pl_01_START_DASH_SENSATION_~あかり_ver.~_るか_from_AIKATSU☆STARS!.txt"
+    }
+  ]
+}
